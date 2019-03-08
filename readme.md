@@ -8,5 +8,3 @@ Hoe de app te installeren:
 ```
 install nodemon
 ```
-
-# Appeltaartjes
