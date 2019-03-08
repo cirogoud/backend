@@ -1,8 +1,16 @@
 * {
     background-color: pink;
-    text-align: center;
 }
 
 h1 {
-    font-size: 2em;
+    margin-top: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+li {
+    list-style: none;
 }
