@@ -12,6 +12,7 @@
   "author": "Ciro Goudswaard",
   "license": "ISC",
   "dependencies": {
+    "ager": "^2.0.5",
     "beautify": "0.0.8",
     "eslint": "^5.15.1",
     "express": "^4.16.4",
@@ -23,6 +24,7 @@
     "project": "^0.1.6",
     "pug": "^2.0.3",
     "quokka": "0.0.7",
-    "server": "^1.0.18"
+    "server": "^1.0.18",
+    "slug": "^1.0.0"
   }
 }

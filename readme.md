@@ -1,23 +1,20 @@
-# Listing
+# Dating app
 
-## Name
+## Summary
+With this dating site we are giving people the chance to find their love of their lifes.
 
-Ciro Goudswaard
-
-## Repository link
+## Install
+1. Clone the repository 
 
 https://github.com/cirogoud/backend
 
-## Summary
+2. Install npm
 
-* Add pug files
-* Create routes
-* Looked into pug more
+```
+npm install 
+```
 
-### Used links
-
-Most of my information came from the lessons on github. All the other information I gathered with or from fellow students or google.
-
-## Any thoughts?
-
-Once I understood what I was doing it was releaving and I was more interested in how to get to the next subject. I just had a hard time understanding what I was doing in the beginning.
+3. Run the application
+```
+npm run start
+```

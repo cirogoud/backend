@@ -1,16 +1,27 @@
 * {
-    background-color: pink;
-}
-
-h1 {
-    margin-top: 1em;
+    background-color: green;
+    color: white;
 }
 
 a {
     text-decoration: none;
-    color: blue;
 }
 
-li {
-    list-style: none;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
 }
+
+li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: pink;
+    color: white;
+  }
